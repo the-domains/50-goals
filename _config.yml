@@ -1,0 +1,28 @@
+name: 50 goals
+favicon: null
+layout_spectrum: 0.10289181210100651
+typography_spectrum: 0.15217509004287422
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4847359855193645
+  lightness: 0.6507780298124999
+  saturation: 0.554228201508522
+  rhythmicContrast: 0.6660714398603886
+purpose: []
